@@ -4,7 +4,12 @@
 
 #include <cuda_runtime.h>
 
-__global__ void copy_matrix_kernel(const float* A, float* B, int total) {}
+__global__ void copy_matrix_kernel(const float* A, float* B, int total) {
+    int i = blockDim.x * blockIdx.x + threadIdx.x;
+    if (i < total) {
+        B[i] = A[i];
+    }
+}
 
 // A, B are device pointers (i.e. pointers to memory on the GPU)
 extern "C" void solve(const float* A, float* B, int N) {
