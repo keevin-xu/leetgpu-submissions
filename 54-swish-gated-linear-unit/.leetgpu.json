@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "challengeId": 54,
+  "title": "Swish-Gated Linear Unit",
+  "slug": "swish-gated-linear-unit",
+  "solutions": {
+    "cuda": {
+      "path": "cuda/solution.cu",
+      "starterHash": "68ca545ab2a35f58a67ff9a93c73725a23c77eb99026124d9aa893e558011244"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "challengeId": 62,
+  "title": "Value Clipping",
+  "slug": "value-clipping",
+  "solutions": {
+    "cuda": {
+      "path": "cuda/solution.cu",
+      "starterHash": "3eb60e6f5983a6fca8646cc876de72fae522d19c5cfc79457277ca168f12f2e8"
+    }
+  }
+}

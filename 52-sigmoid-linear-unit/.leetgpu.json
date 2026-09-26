@@ -7,6 +7,10 @@
     "cuda": {
       "path": "cuda/solution.cu",
       "starterHash": "a5d5649a6539854993de2cf9ad1b514631a950395a47a32cc7be250bd49fd9fb"
+    },
+    "jax": {
+      "path": "jax/solution.py",
+      "starterHash": "93d284f2f266e600f76f37fe39e5d3aa94b255bbcc2dfedbb9e1bb2eb2e42512"
     }
   }
 }

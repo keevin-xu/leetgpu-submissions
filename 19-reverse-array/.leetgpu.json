@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "challengeId": 19,
+  "title": "Reverse Array",
+  "slug": "reverse-array",
+  "solutions": {
+    "cuda": {
+      "path": "cuda/solution.cu",
+      "starterHash": "1203154bad030b499aa9fa3e672a1783ee7e48c64ca1bef7fd9dc437e95e771a"
+    }
+  }
+}

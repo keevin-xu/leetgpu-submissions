@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "challengeId": 8,
+  "title": "Matrix Addition",
+  "slug": "matrix-addition",
+  "solutions": {
+    "cuda": {
+      "path": "cuda/solution.cu",
+      "starterHash": "d5cd9590da25a20f3ceb94326ed61638e69ccf74d7830f1ac2a2a95afeb501fa"
+    }
+  }
+}
