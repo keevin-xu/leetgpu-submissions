@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "challengeId": 21,
+  "title": "ReLU",
+  "slug": "relu",
+  "solutions": {
+    "cuda": {
+      "path": "cuda/solution.cu",
+      "starterHash": "9a68d3f272305643876bc509feb27eb0f0128b3aa2b3df003ae1a20d72bdd9fe"
+    },
+    "jax": {
+      "path": "jax/solution.py",
+      "starterHash": "93d284f2f266e600f76f37fe39e5d3aa94b255bbcc2dfedbb9e1bb2eb2e42512"
+    }
+  }
+}

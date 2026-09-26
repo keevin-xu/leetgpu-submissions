@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "challengeId": 7,
+  "title": "Color Inversion",
+  "slug": "color-inversion",
+  "solutions": {
+    "cuda": {
+      "path": "cuda/solution.cu",
+      "starterHash": "e4d444661e8dc5508680c1e130658e6856c1b8742e71ee0088add65ce4e26c81"
+    },
+    "jax": {
+      "path": "jax/solution.py",
+      "starterHash": "b7f99f885e00d39d6ef810c1ef6604126c75b947efbfc0ec1c140ba4354a43b6"
+    }
+  }
+}

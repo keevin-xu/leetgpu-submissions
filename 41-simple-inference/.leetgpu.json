@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "challengeId": 41,
+  "title": "Simple Inference",
+  "slug": "simple-inference",
+  "solutions": {
+    "jax": {
+      "path": "jax/solution.py",
+      "starterHash": "b1c1b9f3aea6630cc245d97ad8092b43271f8579859fdcd11679f20c77cfc6ff"
+    }
+  }
+}

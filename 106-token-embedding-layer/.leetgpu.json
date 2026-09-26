@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "challengeId": 106,
+  "title": "Token Embedding Layer",
+  "slug": "token-embedding-layer",
+  "solutions": {
+    "cuda": {
+      "path": "cuda/solution.cu",
+      "starterHash": "9afbb3a7fbdf7a34ea8749b3bc5d00b69f822afd3c5ff5c84b45b3969af5e519"
+    }
+  }
+}

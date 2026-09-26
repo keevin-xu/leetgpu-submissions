@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "challengeId": 1,
+  "title": "Vector Addition",
+  "slug": "vector-addition",
+  "solutions": {
+    "cuda": {
+      "path": "cuda/solution.cu",
+      "starterHash": "b46ea642b212a83e617d0fabc59f978243295d136a878fe75cab9f4605cd3575"
+    },
+    "jax": {
+      "path": "jax/solution.py",
+      "starterHash": "84237673d524db3b7186bd8bd6dacac88fde1b83eebb5b54019db5a5a279c970"
+    }
+  }
+}

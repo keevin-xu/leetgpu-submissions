@@ -1,0 +1,13 @@
+# LeetGPU Solution
+# Challenge: #2 · Matrix Multiplication
+# Language: JAX (jax)
+
+import jax
+import jax.numpy as jnp
+
+
+# A, B are tensors on device
+@jax.jit
+def solve(A: jax.Array, B: jax.Array, M: int, N: int, K: int) -> jax.Array:
+    # return output tensor directly
+    pass

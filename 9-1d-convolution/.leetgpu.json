@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "challengeId": 9,
+  "title": "1D Convolution",
+  "slug": "1d-convolution",
+  "solutions": {
+    "cuda": {
+      "path": "cuda/solution.cu",
+      "starterHash": "5189677b3582d2745e61c5322e6275b794a6657b6fb1058116a08ee288292d7a"
+    }
+  }
+}

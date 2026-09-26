@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "challengeId": 68,
+  "title": "Sigmoid Activation",
+  "slug": "sigmoid-activation",
+  "solutions": {
+    "cuda": {
+      "path": "cuda/solution.cu",
+      "starterHash": "5349d5c0c7e2ad45ed936900c5a8da6ae9190c5a5f389c7b1e6bb2c8907762f0"
+    }
+  }
+}

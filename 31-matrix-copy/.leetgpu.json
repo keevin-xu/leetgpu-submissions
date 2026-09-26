@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "challengeId": 31,
+  "title": "Matrix Copy",
+  "slug": "matrix-copy",
+  "solutions": {
+    "cuda": {
+      "path": "cuda/solution.cu",
+      "starterHash": "6ad06183c648250d3378311a28947d4bccc0fe532d5dbb101563b2c40c7c368e"
+    }
+  }
+}

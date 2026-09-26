@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "challengeId": 23,
+  "title": "Leaky ReLU",
+  "slug": "leaky-relu",
+  "solutions": {
+    "cuda": {
+      "path": "cuda/solution.cu",
+      "starterHash": "2c7351a3a22d9dd98b9a12b45072b6930170cf734b059e222342b7e11c07064a"
+    }
+  }
+}

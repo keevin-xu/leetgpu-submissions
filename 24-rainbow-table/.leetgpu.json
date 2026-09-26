@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "challengeId": 24,
+  "title": "Rainbow Table",
+  "slug": "rainbow-table",
+  "solutions": {
+    "cuda": {
+      "path": "cuda/solution.cu",
+      "starterHash": "2c8e0cc6aa14f544037e4209fa0adf9be633e3a51e8bc40909aec452725842fd"
+    }
+  }
+}

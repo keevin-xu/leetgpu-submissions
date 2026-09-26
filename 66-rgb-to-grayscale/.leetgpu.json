@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "challengeId": 66,
+  "title": "RGB to Grayscale",
+  "slug": "rgb-to-grayscale",
+  "solutions": {
+    "cuda": {
+      "path": "cuda/solution.cu",
+      "starterHash": "b3bd7a91700370e20eb272d6c8c0f2f3ba1c6dbb64d52728a073d7ba4bfe94fc"
+    }
+  }
+}

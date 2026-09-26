@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "challengeId": 52,
+  "title": "Sigmoid Linear Unit",
+  "slug": "sigmoid-linear-unit",
+  "solutions": {
+    "cuda": {
+      "path": "cuda/solution.cu",
+      "starterHash": "a5d5649a6539854993de2cf9ad1b514631a950395a47a32cc7be250bd49fd9fb"
+    }
+  }
+}

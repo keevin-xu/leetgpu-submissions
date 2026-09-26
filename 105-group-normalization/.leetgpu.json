@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "challengeId": 105,
+  "title": "Group Normalization",
+  "slug": "group-normalization",
+  "solutions": {
+    "cuda": {
+      "path": "cuda/solution.cu",
+      "starterHash": "671db1633166652794f90d81ac2a46e82ad6ff18cfbef7e9dff8ac4959da3274"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "challengeId": 83,
+  "title": "Fused Residual Add and RMS Norm",
+  "slug": "fused-residual-add-and-rms-norm",
+  "solutions": {
+    "jax": {
+      "path": "jax/solution.py",
+      "starterHash": "dcb213190dfa3203bd876eb2b11fc704ebd51f6ebe1c781df52356132ef86ca9"
+    }
+  }
+}

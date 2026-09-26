@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "challengeId": 2,
+  "title": "Matrix Multiplication",
+  "slug": "matrix-multiplication",
+  "solutions": {
+    "cuda": {
+      "path": "cuda/solution.cu",
+      "starterHash": "30e26a0fe1ab7312edff0d4708551811200f0c22e16887c246cc3c6738cfd0ac"
+    },
+    "jax": {
+      "path": "jax/solution.py",
+      "starterHash": "f273d6ea9edf4b38100fcac0cf9e026d6578ab60f6920b2e381fcf777fd6af71"
+    }
+  }
+}
