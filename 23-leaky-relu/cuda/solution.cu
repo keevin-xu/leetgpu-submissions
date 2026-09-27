@@ -3,9 +3,7 @@
 // Language: CUDA (cuda)
 
 #include <cuda_runtime.h>
-/**
-attempted. not submitted.
-*/
+
 __global__ void leaky_relu_kernel(const float* input, float* output, int N) {
     int i = blockDim.x * blockIdx.x + threadIdx.x;
     if (i < N) {

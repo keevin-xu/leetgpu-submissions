@@ -4,7 +4,9 @@
 
 #include <cuda_runtime.h>
 
-__global__ void silu_kernel(const float* input, float* output, int N) {}
+__global__ void silu_kernel(const float* input, float* output, int N) {
+    
+}
 
 // input, output are device pointers
 extern "C" void solve(const float* input, float* output, int N) {
