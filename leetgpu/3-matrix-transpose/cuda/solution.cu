@@ -19,7 +19,11 @@ __global__ void matrix_transpose_kernel(const float* input, float* output, int r
         output[y * cols + x] = tile[threadIdx.x][threadIdx.y];
     }
 }
-
+/*
+so the full tile is already switched. now its all about placing it in memory. 
+swapping the blocks gets the location down. after that the way you place it doesn't matter.
+ which is why you leave them unswapped for coalesced access in y * cols + x.
+*/
 // input, output are device pointers (i.e. pointers to memory on the GPU)
 extern "C" void solve(const float* input, float* output, int rows, int cols) {
     dim3 threadsPerBlock(32, 32);

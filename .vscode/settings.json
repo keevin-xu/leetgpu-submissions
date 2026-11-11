@@ -1,0 +1,20 @@
+{
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/leetgpu/.support/python"
+    ],
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.jj": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "leetgpu/.support": true
+    },
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/*.code-search": true,
+        "leetgpu/.support": true
+    }
+}
