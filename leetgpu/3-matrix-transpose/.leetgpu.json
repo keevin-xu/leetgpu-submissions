@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "challengeId": 3,
+  "title": "Matrix Transpose",
+  "slug": "matrix-transpose",
+  "solutions": {
+    "cuda": {
+      "path": "cuda/solution.cu",
+      "starterHash": "5a3c3f2a38ba9eb5aef7107174c5b9ef2cbd7a2d92ee4005796965c99572239b"
+    }
+  }
+}
